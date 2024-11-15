@@ -1,3 +1,7 @@
+---
+title: web-design-picasso
+---
+
 # Web Design - Picasso
 
 ## Exercise List
