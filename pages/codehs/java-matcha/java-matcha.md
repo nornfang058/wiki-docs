@@ -1,6 +1,8 @@
 ---
-title: java-matcha
----
+title: Java Matcha - Exercise Menu
+layout: template
+filename: java-matcha.md
+--- 
 
 # Java - Matcha
 

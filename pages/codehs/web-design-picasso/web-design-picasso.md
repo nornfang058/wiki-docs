@@ -1,6 +1,8 @@
 ---
-title: web-design-picasso
----
+title: Web Design Picasso - Exercise List
+layout: template
+filename: web-design-picasso.md
+--- 
 
 # Web Design - Picasso
 
