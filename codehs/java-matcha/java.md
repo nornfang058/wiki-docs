@@ -1,3 +1,0 @@
-# JAVATEST
-
-[Home](/index.md)
