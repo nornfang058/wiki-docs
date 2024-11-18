@@ -9,8 +9,11 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - navigation.indexes
+    - toc.integrate
 
   palette:
     # Dark Mode
@@ -25,9 +28,9 @@ theme:
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: black
-      primary: red
-      accent: deep orange
+        name: Light mode
+      primary: black
+      accent: red
 
 markdown_extensions:
   - attr_list
@@ -53,9 +56,14 @@ markdown_extensions:
 
 extra:
   social:
-    - icon: simple/youtube
-      link: https://youtube.com/@james-willett
-    - icon: simple/linkedin
-      link: https://linkedin.com/in/willettjames
+    - icon: simple/github
+      link: https://github.com/nornfang058
+    - icon: simple/discord
+      link: https://discordapp.com/users/885575402570010736
 
-copyright: Copyright &copy; 2024 James Willett
+copyright: Copyright &copy; 2024 Nornfang058
+
+nav:
+  - Home: index.md
+  - Code Examples: code-examples.md
+  - Admonitions: admonitions.md
