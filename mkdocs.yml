@@ -22,7 +22,7 @@ theme:
         icon: material/weather-sunny
         name: Dark mode
       primary: black
-      accent: red
+      accent: blue
 
     # Light Mode
     - scheme: default
@@ -30,7 +30,7 @@ theme:
         icon: material/weather-night
         name: Light mode
       primary: black
-      accent: red
+      accent: blue
 
 markdown_extensions:
   - attr_list
