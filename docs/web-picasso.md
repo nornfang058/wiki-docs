@@ -50,3 +50,27 @@ Below is a basic HTML skeleton for a website:
 
 ## Exercise List
 Each exercise contains solution source code, notes explaining the lesson, and steps to solve.
+
+### Unit 2
+
+#### 2.1 - Introduction to HTML
+* :file-document-outline: [2.1.3 - Our First HTML Page]()
+* :pencil: [2.1.4 - Say Hello]()
+#### 2.2 - Structure of an HTML page
+* :file-document-outline: [2.2.3 - HTML Template]()
+* :file-document-outline: [2.2.4 - Hello World Page]()
+* :file-document-outline: [2.2.5 - Using Comments]()
+* :pencil: [2.2.6 - The `<title>` Tag]()
+* :pencil: [2.2.7 - Your First HTML Page]()
+#### 2.3 - Formatting Text
+* :file-document-outline: [2.3.3 - Dictionary]()
+* :pencil: [2.3.4 - Word Definitions]()
+* :pencil: [2.3.5 - Pet Names]()
+* :pencil: [2.3.6 - Call of the Wild]()
+#### 2.4 - Links
+#### 2.5 - Images
+#### 2.6 - Copyright
+#### 2.7 - HTML Lists
+#### 2.8 - HTML Tables
+#### 2.9 - HTML Styling
+#### 2.10 - HTML Colors
