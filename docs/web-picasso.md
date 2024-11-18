@@ -4,13 +4,13 @@
 * **Unit 1** - Getting Started (What is the Web?)
 * **Unit 2** - HTML and Structuring Websites
 * **Unit 3** - CSS and Styling Websites
-* ~~**Unit 4** - Project (Create Your Homepage)~~
+* **Unit 4** - Project (Create Your Homepage)
 * **Unit 5** - Advanced HTML and CSS
-* ~~**Unit 6** - Project (Tell a Story)~~
+* **Unit 6** - Project (Tell a Story)
 * **Unit 7** - Bootstrap
-* ~~**Unit 8** - Project (Bootstrap)~~
+* **Unit 8** - Project (Bootstrap)
 * **Unit 9** - Designing User Interfaces
-* ~~**Unit 10** - Final Project~~
+* **Unit 10** - Final Project
 
 Please note that the optional supplemental materials are not covered on this website.
 
