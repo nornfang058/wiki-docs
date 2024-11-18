@@ -16,6 +16,8 @@ theme:
     - toc.integrate
     - content.code.copy
     - content.code.annotate
+  icon:
+    annotation: material/plus-circle
 
   palette:
     # Dark Mode
