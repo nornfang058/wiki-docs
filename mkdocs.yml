@@ -14,6 +14,7 @@ theme:
     - navigation.path
     - navigation.indexes
     - toc.integrate
+    - content.code.copy
 
   palette:
     # Dark Mode
