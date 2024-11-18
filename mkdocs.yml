@@ -65,6 +65,6 @@ copyright: Copyright &copy; 2024 Nornfang058
 
 nav:
   - Home: index.md
-  - Java (Latte): /web-picasso/java-latte.md
-  - Web Design (Picasso): /java-latte/web-picasso.md
+  - Java (Latte): /web-picasso/java-latte.html
+  - Web Design (Picasso): /java-latte/web-picasso.html
   - MKDocs Material: mkdocs-material.md
