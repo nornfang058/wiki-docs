@@ -70,6 +70,7 @@ nav:
   - Web Design (Picasso): web-picasso.md
   - Code Snippets: snippets.md
   - MKDocs Material: mkdocs-material.md
+  - Template Test: 2.1.4.md
 
 extra_css:
   - stylesheets/extra.css
