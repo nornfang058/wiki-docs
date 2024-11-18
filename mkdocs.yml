@@ -68,3 +68,6 @@ nav:
   - Java (Latte): java-latte.md
   - Web Design (Picasso): web-picasso.md
   - MKDocs Material: mkdocs-material.md
+
+extra_css:
+  - stylesheets/extra.css
