@@ -54,16 +54,16 @@ Each exercise contains solution source code, notes explaining the lesson, and st
 ### Unit 2
 
 #### 2.1 - Introduction to HTML
-* :file-document-outline: [2.1.3 - Our First HTML Page]()
+* :file-document: [2.1.3 - Our First HTML Page]()
 * :pencil: [2.1.4 - Say Hello]()
 #### 2.2 - Structure of an HTML page
-* :file-document-outline: [2.2.3 - HTML Template]()
-* :file-document-outline: [2.2.4 - Hello World Page]()
-* :file-document-outline: [2.2.5 - Using Comments]()
+* :file-document: [2.2.3 - HTML Template]()
+* :file-document: [2.2.4 - Hello World Page]()
+* :file-document: [2.2.5 - Using Comments]()
 * :pencil: [2.2.6 - The `<title>` Tag]()
 * :pencil: [2.2.7 - Your First HTML Page]()
 #### 2.3 - Formatting Text
-* :file-document-outline: [2.3.3 - Dictionary]()
+* :file-document: [2.3.3 - Dictionary]()
 * :pencil: [2.3.4 - Word Definitions]()
 * :pencil: [2.3.5 - Pet Names]()
 * :pencil: [2.3.6 - Call of the Wild]()
