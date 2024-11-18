@@ -68,6 +68,7 @@ nav:
   - Home: index.md
   - Java (Latte): java-latte.md
   - Web Design (Picasso): web-picasso.md
+  - Code Snippets: snippets.md
   - MKDocs Material: mkdocs-material.md
 
 extra_css:
