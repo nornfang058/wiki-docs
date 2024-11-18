@@ -1,5 +1,5 @@
-site_name: My MkDocs Material Documentation
-site_url: https://sitename.example
+site_name: Nornfang's Wiki Docs
+site_url: https://nornfang058.github.io/wiki-docs/
 theme:
   name: material
   font:
@@ -9,21 +9,26 @@ theme:
   favicon: assets/favicon.ico
   features:
     - navigation.footer
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.path
+    - navigation.indexes
+
   palette:
     # Dark Mode
     - scheme: slate
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: green
-      accent: deep purple
+      primary: black
+      accent: red
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
-        name: Light mode
-      primary: blue
+        name: black
+      primary: red
       accent: deep orange
 
 markdown_extensions:
