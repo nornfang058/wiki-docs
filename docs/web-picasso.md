@@ -23,7 +23,7 @@ Each exercise contains solution source code, notes explaining the lesson, and st
 
 #### 2.1 - Introduction to HTML
 * :material-file-document: [2.1.3 - Our First HTML Page]()
-* :material-pencil: [2.1.4 - Say Hello](/wiki-docs/web-picasso/2.1.4/)
+* :material-pencil: [2.1.4 - Say Hello](web-picasso-2.1.4.md)
 #### 2.2 - Structure of an HTML page
 * :material-file-document: [2.2.3 - HTML Template]()
 * :material-file-document: [2.2.4 - Hello World Page]()
