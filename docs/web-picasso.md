@@ -1,3 +1,8 @@
+---
+title: Web Design
+description: Web Design (Picasso) - CodeHS
+---
+
 # Web Design - Picasso
 
 ## Course Outline

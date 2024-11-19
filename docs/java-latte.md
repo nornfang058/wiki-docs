@@ -1,3 +1,8 @@
+---
+title: Java
+description: Java (Latte) - CodeHS
+---
+
 # Java - Latte
 
 ## Course Outline
