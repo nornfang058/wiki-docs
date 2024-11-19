@@ -70,9 +70,7 @@ copyright: Copyright &copy; 2024 Nornfang058
 nav:
   - Home: index.md
   - Java (Latte): java-latte.md
-  - Web Design (Picasso):
-    - Web Design Exercise List: web-picasso.md
-    - 2.1.4: 2.1.4.md
+  - Web Design (Picasso): web-picasso.md
   - Code Snippets: snippets.md
   - MKDocs Material: mkdocs-material.md
   - Template Test: web-picasso/2.1.4.md
