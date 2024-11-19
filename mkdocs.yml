@@ -27,16 +27,16 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Dark mode
-      primary: black
-      accent: blue
+      primary: custom
+      accent: custom
 
     # Light Mode
     - scheme: default
       toggle:
         icon: material/weather-night
         name: Light mode
-      primary: black
-      accent: blue
+      primary: custom
+      accent: custom
 
 markdown_extensions:
   - attr_list
