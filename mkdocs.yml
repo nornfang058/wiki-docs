@@ -80,6 +80,6 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - search
   - social:
-    cards_layout: default
+      cards_layout: default
+  - search
