@@ -80,5 +80,4 @@ extra_css:
   - stylesheets/extra.css
 
 plugins:
-  - social:
-      cards_layout: default
+  - social
