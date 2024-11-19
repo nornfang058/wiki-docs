@@ -22,8 +22,9 @@ Each exercise contains solution source code, notes explaining the lesson, and st
 ### Unit 2
 
 #### 2.1 - Introduction to HTML
-* :material-file-document: [2.1.3 - Our First HTML Page]()
-* :material-pencil: [2.1.4 - Say Hello](webdesign-picasso/2.1.4/2.1.4.md)
+* :material-file-document: [2.1.2 - Our First HTML Page](webdesign-picasso/2.1.2/2.1.2.md)
+* :material-pencil: [2.1.3 - Say Hello](webdesign-picasso/2.1.3/2.1.3.md)
+* :material-pencil: [2.1.4 - Create an "About Me" HTML Page](webdesign-picasso/2.1.4/2.1.4.md)
 #### 2.2 - Structure of an HTML page
 * :material-file-document: [2.2.3 - HTML Template]()
 * :material-file-document: [2.2.4 - Hello World Page]()
