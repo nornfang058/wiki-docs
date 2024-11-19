@@ -12,6 +12,8 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.path
+    - navigation.sections
+    - navigation.expand
     - navigation.indexes
     - toc.integrate
     - content.code.copy
@@ -72,8 +74,7 @@ nav:
   - Java (Latte): java-latte.md
   - Web Design (Picasso): web-picasso.md
   - Code Snippets: snippets.md
-  - MKDocs Material: mkdocs-material.md
-  - Template Test: webdesign-picasso/2.1.4/2.1.4.md
+  - Help: help.md
 
 extra_css:
   - stylesheets/extra.css
