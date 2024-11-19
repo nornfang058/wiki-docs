@@ -1,7 +1,7 @@
 # Welcome to Nornfang's Wiki Docs
 
-## About the Site
-This website provides source code, notes, and explanations for coding-related topics.
+## How do I get started?
+1. 
 
 ## Course List
 * Java (Latte) - **WIP**
