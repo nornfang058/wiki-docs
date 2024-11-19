@@ -5,11 +5,11 @@ description: Welcome to Nornfang's Wiki Docs
 
 # Welcome to Nornfang's Wiki Docs
 
-:material-file-code: ## How do I get started?
+## How do I get started? :material-file-code: 
 We suggest that you use the search bar, located at the top right corner of the website to look for the specific exercise you are searching for.
 If you prefer, you may also manually look for the exercise you are looking using the [Java (Latte)](java-latte.md) or [Web Design (Picasso)](web-picasso.md) pages.
 
-:material-file-document: ## Course List
+## Course List :material-file-document:
 * Java (Latte) - **WIP**
 * Web Design (Picasso) - **WIP**
 
