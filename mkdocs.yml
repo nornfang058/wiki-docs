@@ -81,4 +81,5 @@ extra_css:
 
 plugins:
   - search
-  - social
+  - social:
+    cards_layout: default
