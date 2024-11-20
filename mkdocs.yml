@@ -81,5 +81,9 @@ extra_css:
 
 plugins:
   - social:
-      cards_layout: default
+      cards_layout: default/variant
+      cards_layout_options:
+        font_family: Inter
+        background-color: blue
   - search
+
