@@ -18,6 +18,7 @@ theme:
     - toc.integrate
     - content.code.copy
     - content.code.annotate
+    - content.tooltips
   icon:
     annotation: material/plus-circle
 
