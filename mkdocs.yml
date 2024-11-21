@@ -19,7 +19,6 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tooltips
-    - navigation.top
   icon:
     annotation: material/plus-circle
 
