@@ -19,6 +19,7 @@ theme:
     - content.code.copy
     - content.code.annotate
     - content.tooltips
+    - header.autohide
   icon:
     annotation: material/plus-circle
 
