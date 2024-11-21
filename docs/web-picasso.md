@@ -27,11 +27,11 @@ Each exercise contains solution source code, notes explaining the lesson, and st
 ### Unit 2
 
 #### 2.1 - Introduction to HTML
-* :material-file-document:{ title="Example" } [**2.1.3** - Our First HTML Page](webdesign-picasso/2.1.3/2.1.3.md)
-* :material-pencil:{ title="Exercise" } [**2.1.4** - Say Hello](webdesign-picasso/2.1.4/2.1.4.md)
-* :material-pencil:{ title="Exercise" } [**2.1.5** - Create an "About Me" HTML Page](webdesign-picasso/2.1.5/2.1.5.md)
+* :material-file-document:{ title="Example" } [**2.1.3** - Our First HTML Page](webdesign-picasso/2.1.3.md)
+* :material-pencil:{ title="Exercise" } [**2.1.4** - Say Hello](webdesign-picasso/2.1.4.md)
+* :material-pencil:{ title="Exercise" } [**2.1.5** - Create an "About Me" HTML Page](webdesign-picasso/2.1.5.md)
 #### 2.2 - Structure of an HTML page
-* :material-file-document:{ title="Example" } [**2.2.3** - HTML Template](webdesign-picasso/2.2.3/2.2.3.md)
+* :material-file-document:{ title="Example" } [**2.2.3** - HTML Template](webdesign-picasso/2.2.3.md)
 * :material-file-document:{ title="Example" } [**2.2.4** - Hello World Page]()
 * :material-file-document:{ title="Example" } [**2.2.5** - Using Comments]()
 * :material-pencil:{ title="Exercise" } [**2.2.6** - The `<title>` Tag]()
