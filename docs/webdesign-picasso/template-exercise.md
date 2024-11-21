@@ -1,3 +1,9 @@
+---
+hide:
+  - navigation
+  - toc
+---
+
 # Lesson Number - Lesson Name
 ## Course Name
 
